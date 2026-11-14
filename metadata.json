@@ -1,0 +1,6 @@
+{
+  "name": "A2A Live SpeedCam",
+  "description": "แอปกล้องบันทึกวิดีโอพร้อมวัดความเร็ว GPS แบบเรียลไทม์ กราฟความเร็วย้อนหลัง 120 วินาที และโหมดกล้องคู่ หน้า+หลัง สำหรับสายจูนกล่องควบคุม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

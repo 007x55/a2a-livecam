@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">A2A Live SpeedCam</string>
+    <string name="status_ready_single">พร้อมบันทึก • กล้องเดี่ยว • กราฟย้อนหลัง 120 วินาที</string>
+    <string name="status_ready_dual">พร้อมบันทึก • หน้า+หลัง • กราฟย้อนหลัง 120 วินาที</string>
+    <string name="status_recording_single">กำลังบันทึก • กล้องเดี่ยว • กราฟย้อนหลัง 120 วินาที</string>
+    <string name="status_recording_dual">กำลังบันทึก • หน้า+หลัง • กราฟย้อนหลัง 120 วินาที</string>
+    <string name="stabilization_on">กันสั่นวิดีโอ: เปิด</string>
+    <string name="stabilization_off">กันสั่นวิดีโอ: ปิด</string>
+    <string name="rec_badge_default">REC A2A LIVE</string>
+    <string name="rec_badge_aekboy">AEKBOY2010 TUNING</string>
+    <string name="gps_wait">GPS WAIT</string>
+    <string name="gps_ok">GPS LIVE</string>
+    <string name="gps_sim">ECU SIM</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="speed_history_title">SPEED HISTORY</string>
+    <string name="select_camera_title">เลือกกล้อง</string>
+    <string name="camera_back">กล้องหลัง</string>
+    <string name="camera_front">กล้องหน้า</string>
+    <string name="camera_dual">หน้า + หลัง พร้อมกัน</string>
+    <string name="camera_dual_short">หน้า + หลัง</string>
+    <string name="btn_rec">REC</string>
+    <string name="btn_stop">STOP</string>
+    <string name="mic_on">ไมค์ เปิด</string>
+    <string name="mic_off">ไมค์ ปิด</string>
+    <string name="btn_videos">วิดีโอ</string>
+    <string name="permission_required_title">ต้องการสิทธิ์การใช้งานกล้องและ GPS</string>
+    <string name="permission_required_desc">กรุณาอนุญาตสิทธิ์กล้อง ไมโครโฟน และตำแหน่งที่ตั้ง (GPS) เพื่อบันทึกวิดีโอพร้อมแสดงความเร็วและกราฟย้อนหลัง 120 วินาที</string>
+    <string name="grant_permission_btn">อนุญาตสิทธิ์ใช้งาน</string>
+</resources>
